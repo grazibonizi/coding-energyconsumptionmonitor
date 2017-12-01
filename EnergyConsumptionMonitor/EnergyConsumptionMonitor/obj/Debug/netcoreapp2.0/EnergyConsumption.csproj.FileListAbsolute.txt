@@ -1,0 +1,11 @@
+C:\Pessoal\DDD\EnergyConsumption\coding-energyconsumption\EnergyConsumption\EnergyConsumption\bin\Debug\netcoreapp2.0\EnergyConsumption.deps.json
+C:\Pessoal\DDD\EnergyConsumption\coding-energyconsumption\EnergyConsumption\EnergyConsumption\bin\Debug\netcoreapp2.0\EnergyConsumption.runtimeconfig.json
+C:\Pessoal\DDD\EnergyConsumption\coding-energyconsumption\EnergyConsumption\EnergyConsumption\bin\Debug\netcoreapp2.0\EnergyConsumption.runtimeconfig.dev.json
+C:\Pessoal\DDD\EnergyConsumption\coding-energyconsumption\EnergyConsumption\EnergyConsumption\bin\Debug\netcoreapp2.0\EnergyConsumption.dll
+C:\Pessoal\DDD\EnergyConsumption\coding-energyconsumption\EnergyConsumption\EnergyConsumption\bin\Debug\netcoreapp2.0\EnergyConsumption.pdb
+C:\Pessoal\DDD\EnergyConsumption\coding-energyconsumption\EnergyConsumption\EnergyConsumption\obj\Debug\netcoreapp2.0\EnergyConsumption.csprojResolveAssemblyReference.cache
+C:\Pessoal\DDD\EnergyConsumption\coding-energyconsumption\EnergyConsumption\EnergyConsumption\obj\Debug\netcoreapp2.0\EnergyConsumption.csproj.CoreCompileInputs.cache
+C:\Pessoal\DDD\EnergyConsumption\coding-energyconsumption\EnergyConsumption\EnergyConsumption\obj\Debug\netcoreapp2.0\EnergyConsumption.AssemblyInfoInputs.cache
+C:\Pessoal\DDD\EnergyConsumption\coding-energyconsumption\EnergyConsumption\EnergyConsumption\obj\Debug\netcoreapp2.0\EnergyConsumption.AssemblyInfo.cs
+C:\Pessoal\DDD\EnergyConsumption\coding-energyconsumption\EnergyConsumption\EnergyConsumption\obj\Debug\netcoreapp2.0\EnergyConsumption.dll
+C:\Pessoal\DDD\EnergyConsumption\coding-energyconsumption\EnergyConsumption\EnergyConsumption\obj\Debug\netcoreapp2.0\EnergyConsumption.pdb
